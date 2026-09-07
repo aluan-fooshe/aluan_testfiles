@@ -1,0 +1,26 @@
+  
+# Archive Repository:** `aluan_ucsc_archive`
+
+---
+
+### 📅 Timeline  
+- **Date Created:** June 24, 2025 
+- **Date Modified:** September 24, 2025
+
+---
+
+### 👥 Collaborators  
+- **Lab Partner:**  N/A
+- **Professor:**  N/A
+
+---
+
+### 📘 Introduction  
+- On September 24, 2025, the repository has been moved to a different folder. This repository will be left blank for now.
+- On January 13, 2026, this repository will contain all the ECE167 Lab Project clones in it.
+
+
+### 📂 Repository Structure  
+[Outline of folders, files, and their purposes.]
+
+N/A
